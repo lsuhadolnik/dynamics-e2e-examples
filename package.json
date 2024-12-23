@@ -1,0 +1,20 @@
+{
+  "name": "dynamics-crm-e2e-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Lovro Suhadolnik",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nanoid": "^5.0.9",
+    "totp": "^0.0.1",
+    "totp-generator": "^1.0.0"
+  }
+}
